@@ -19,7 +19,7 @@ Estandar: JPA
 Paso:
 1. Ejecutar script de base de datos tanto la BD como la tabla, aunque la tabla se crearia automaticamente al desplegar el aplicativo.
 
-2. importar coo proyecto gradle, preferiblemente en el IDE Spring Tool Suite (STS)
+2. importar como proyecto Maven, preferiblemente en el IDE Spring Tool Suite (STS)
 
 3. Compilar el proyecto
 
